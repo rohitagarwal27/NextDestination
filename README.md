@@ -1,20 +1,18 @@
 
-# Namaste Yatra 
-![Logo](https://res.cloudinary.com/danoxgcb8/image/upload/v1698837544/wanderlust_DEV/namaste_1_scnrpm.png)
-
+# Next Destination 
 Developed a full-stack Airbnb clone with CRUD operations, user authentication, and data validation, integrating Mapbox for location services and Cloudinary for image management
 
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/shashi-srivastav">
+  <a style="" href="">
   <img src="https://profile-counter.glitch.me/namaste-yatra/count.svg" />
   </a>
 </p>
 
 ## Authors
 
-- [@shashi-srivastava](https://github.com/Shashi-Srivastav)
+- [@Rohit_Agarwal](https://github.com/rohitagarwal27)
 
 
 ## Technologies Used
@@ -40,7 +38,7 @@ Developed a full-stack Airbnb clone with CRUD operations, user authentication, a
 
 
 ## Features
-# Namaste Yatra: Key Features
+# Next Destination: Key Features
 
 ## User Authentication and Security:
 - **Passport Integration:** Secure sign-up and login.
@@ -91,26 +89,25 @@ Developed a full-stack Airbnb clone with CRUD operations, user authentication, a
 ```javascript
 CLOUD_NAME=
 CLOUD_API_KEY=
-CLOUD_API_SECRET=
-MAP_TOKEN=
-ATLASDB_URL=
-SECRET=dtrvstyjtvhdtcd
+CLOUD_API_SECRET= 
+MAP_TOKEN= map token
+ATLASDB_URL= mongo atlas
+SECRET=yoursecuredcode 
 ```
 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Shashi-Srivastav/Namaste-Yatra/assets/119119389/21c1c9d1-9101-4235-bdd8-ec9380db50af)
+![App Screenshot](https://ibb.co/M2S0cd0)
 ---
-![](https://github.com/Shashi-Srivastav/Namaste-Yatra/assets/119119389/5920edce-37c1-4814-82ef-c28b6999116d)
+![](https://ibb.co/pQ6xW2G)
 ---
-![](https://github.com/Shashi-Srivastav/Namaste-Yatra/assets/119119389/85c60a10-f1d6-4bf3-b66d-5a2272bafb0a)
+![]()
 ---
-![](https://github.com/Shashi-Srivastav/Namaste-Yatra/assets/119119389/732fa7c3-78db-4bf0-9f60-61a77d61edce)
+![](https://ibb.co/LhCz6M3)
 ---
 # Mobile View
-
-![](https://github.com/Shashi-Srivastav/Namaste-Yatra/assets/119119389/e2c1aca0-1be3-4d6d-8809-f5022233c7b6)
+![](https://ibb.co/NFtW1ds)
 ---
 
 
@@ -119,13 +116,13 @@ SECRET=dtrvstyjtvhdtcd
 Clone the project
 
 ```bash
-  git clone https://github.com/Shashi-Srivastav/Namaste-Yatra
+  git clone https://github.com/rohitagarwal27/NextDestination
 ```
 
 Go to the project directory
 
 ```bash
-  cd Namaste-Yatra
+  cd NextDestination
 ```
 
 Install dependencies
@@ -141,14 +138,6 @@ Start the server
 ```
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shashi-srivastava.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-srivastava01/)
-[![GitHub](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/Shashi-Srivastav)
 
-
-## Feedback
-
-If you have any feedback, please reach out to us at shashisrivastav95@gmail.com
 
 
