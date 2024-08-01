@@ -98,6 +98,7 @@ SECRET=yoursecuredcode
 
 ## Screenshots
 
+<<<<<<< HEAD
 ![App Screenshot](https://ibb.co/M2S0cd0)
 ---
 ![](https://ibb.co/pQ6xW2G)
@@ -108,6 +109,16 @@ SECRET=yoursecuredcode
 ---
 # Mobile View
 ![](https://ibb.co/NFtW1ds)
+=======
+![App Screenshot](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091618.png)
+---
+![](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091039.png)
+---
+![](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091335.png)
+---
+# Mobile View
+![](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20094117.png)
+>>>>>>> e892d2d785e9a8aa912db871bd504321a214bc1b
 ---
 
 
@@ -138,4 +149,9 @@ Start the server
 ```
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> e892d2d785e9a8aa912db871bd504321a214bc1b
 
