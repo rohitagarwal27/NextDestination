@@ -98,16 +98,15 @@ SECRET=yoursecuredcode
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/M2S0cd0)
+![App Screenshot](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20094117.png)
 ---
-![](https://ibb.co/pQ6xW2G)
+![][(https://ibb.co/pQ6xW2G](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091039.png))
 ---
-![]()
+![](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091335.png)
 ---
-![](https://ibb.co/LhCz6M3)
 ---
 # Mobile View
-![](https://ibb.co/NFtW1ds)
+![]([https://ibb.co/NFtW1ds](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20094117.png))
 ---
 
 
