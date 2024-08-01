@@ -147,11 +147,3 @@ Start the server
 ```bash
   node app.js
 ```
-
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> e892d2d785e9a8aa912db871bd504321a214bc1b
-
