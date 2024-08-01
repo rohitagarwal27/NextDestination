@@ -100,7 +100,7 @@ SECRET=yoursecuredcode
 
 ![App Screenshot](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091618.png)
 ---
-![][(https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091039.png)
+![](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091039.png)
 ---
 ![](https://github.com/rohitagarwal27/HOSTED_ASSETES/blob/main/Screenshot%202024-08-01%20091335.png)
 ---
